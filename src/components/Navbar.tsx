@@ -16,6 +16,7 @@ const Navbar = () => {
           <a href="#presentation" className="hover:text-accent-ochre transition-colors">Présentation</a>
           <a href="#parcours" className="hover:text-accent-ochre transition-colors">Parcours</a>
           <a href="#bresil2025" className="hover:text-accent-ochre transition-colors">Brésil 2025</a>
+          <a href="#videos" className="hover:text-accent-ochre transition-colors">Vidéothèque</a>
         </div>
       </div>
     </motion.nav>

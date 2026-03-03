@@ -1,11 +1,15 @@
 @import "tailwindcss";
 
 @theme {
-  --color-background: #FDFBF8;
-  --color-charcoal: #24211F;
-  --color-accent-ochre: #C1784B;
-  --color-accent-blue: #2A5A9F;
-  
+  /* Palette extraite de « Autorretrato 14 » — José Antônio da Silva, 1982 */
+  --color-background: #FAF4E6;       /* crème chaud — teinte de la toile */
+  --color-charcoal: #1E0C08;         /* brun quasi-noir — contours du tableau */
+  --color-accent-ochre: #A84E18;     /* rouille chaud — vêtement avec inscriptions */
+  --color-accent-blue: #1C3E82;      /* bleu cobalt — fond supérieur */
+  --color-accent-green: #2A641C;     /* vert forêt — fond dominant */
+  --color-accent-yellow: #E8B820;    /* jaune doré vif — visage et coiffe */
+  --color-accent-red: #C42012;       /* rouge profond — rayures de la coiffe */
+
   --font-serif: "Playfair Display", serif;
   --font-sans: "Inter", sans-serif;
 }
