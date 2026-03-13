@@ -57,7 +57,7 @@ const Parcours = () => {
   return (
     <section id="parcours" className="py-24 px-6 bg-background">
       <div className="max-w-5xl mx-auto">
-        <motion.h2 
+        <motion.h2
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
@@ -65,7 +65,20 @@ const Parcours = () => {
         >
           Le Parcours
         </motion.h2>
-        
+
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="mb-16 flex justify-center"
+        >
+          <img
+            src="/Photo_affiche_Edilson_Roque.jpg"
+            alt="Affiche Edilson Roque"
+            className="w-full max-w-2xl object-cover shadow-lg"
+          />
+        </motion.div>
+
         <div className="space-y-16">
           {categories.map((cat, idx) => (
             <motion.div 

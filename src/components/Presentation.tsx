@@ -18,7 +18,7 @@ const Presentation = () => {
                 Un chemin, une disponibilité des corps par une recherche constante de s'améliorer en danse.
               </p>
               <p>
-                Une association met à disposition pour les musées, un groupe de danseurs amateurs déambulant au cœur des expositions pour amener de la danse à la peinture, à la photographie ou statues.
+                Une association met à disposition pour les musées, les galeries et les entreprises, un groupe de danseurs amateurs déambulant au cœur des expositions, des salons d’Hôtel particulier et des jardins pour amener de la danse à la peinture, à la photographie ou aux statues.
               </p>
               <p>
                 Le chorégraphe propose sa danse dans un espace qui n'est ni le studio, ni la scène. Chaque représentation sera unique et sera le fruit d'un travail particulier entre l'œuvre et la danse.

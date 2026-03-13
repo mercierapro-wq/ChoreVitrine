@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import Presentation from './components/Presentation';
 import Parcours from './components/Parcours';
 import Bresil2025 from './components/Bresil2025';
+import DanseMusee from './components/DanseMusee';
 import VideoCarousel from './components/VideoCarousel';
 import Footer from './components/Footer';
 
@@ -15,6 +16,7 @@ function App() {
         <Presentation />
         <Parcours />
         <Bresil2025 />
+        <DanseMusee />
         <VideoCarousel />
       </main>
       <Footer />
